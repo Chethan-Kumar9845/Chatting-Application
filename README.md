@@ -29,4 +29,9 @@ A simple **Java Chat Application** built using:
 
 ---
 
+## 📸 Screenshots
+
+### Chat Frame
+![Chat App Screenshot](https://github.com/Chethan-Kumar9845/Chatting-Application/blob/main/ScreenShots/Screenshot%202025-08-28%20182016.png)
+
 👨‍💻 Developed by **Chethan Kumar**
